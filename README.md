@@ -14,7 +14,7 @@ Supported multiplayer patch: **1.3**
 - Killcam
 and a lot of stuff
 ___
-#### [Some videos](https://www.youtube.com/playlist?list=PLTiI1XPSd-uVS_saGvqfgk7hgguxHc1Y0)
+#### [Some videos](https://www.youtube.com/playlist?list=PLTiI1XPSd-uVS_saGvqfgk7hgguxHc1Y0) (cod1 version)
 ___
 #### Some credits
 - The [Killtube](https://www.killtube.org/) community
