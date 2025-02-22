@@ -8,6 +8,7 @@ Supported multiplayer patch: **1.3**
 ### Some TODO
 - Make the zone to move when shrinking
 - Show the full zone on compass instead of just the center
+- PlayerDamage callback doesn't work
 - Port models to cod2
 - Create a menu
 - Scoreboard
